@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+5.1
 
-You can use the [editor on GitHub](https://github.com/yolandayangg/yolandayang/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+While a dopamine rush can be obtained through coding, it's important to have other sources of entertainment that can provide movement
+Lack of mobility leads to laziness and lack of socialization
+Come up with three of your own Beneficial and corresponding Harmful Effects of Computing; beneficial: skills that can be applicable to the evergrowing internet, meeting people virtually, more opportunities to diversify. Harmful effects: lack of exercise leads to decline in health, lack of socialization prevents necessary skills to be developed, sole focus on computing distracts from other daily tasks necessary for function.
+5.2
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yolandayangg/yolandayang/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+How does someone empower themselves in a digital world? A person empowers themselves in a digital world by having the resources needed to guarantee success. However, not everyone is able to empower themselves because there could be disparities in wealth and accessibility.
+How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS. At DNHS, one thing that someone who is empowered can do to help someone who isn't empowered would be to share resources. For example, perhaps two students can code together on the same computer and collaborate in order to write a functioning program that combines the intellect of both individuals. In the real world, one way the empowered can help the not empowered is to suggest alternative methods of achieving the same results
+Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere? Paper is not blocking digital empowerment. While the world is trending towards a more digital era, it's crucial to consider that addiction to the internet is real, as seen by examples of multiple high school students. With paper, we are assisting digital empowerment by preventing addiction and promoting moderation. Red tape does the same job; it's a preventative measure that prevents addiction.
