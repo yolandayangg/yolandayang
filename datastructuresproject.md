@@ -1,5 +1,4 @@
-## Data Structures Project (Documentation, code snippets, links to Github and Replit)
-### (code snippets for learning, links to Github code, replit runtime)
+## Data Structures Project
 
 
 | Task | Replit Runtime Link | Code | 
