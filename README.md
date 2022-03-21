@@ -1,6 +1,16 @@
-Review ticket: [#1](https://github.com/yolandayangg/yolandayang/issues/1)
+Review ticket: [#2, Week of March 14-18](https://github.com/yolandayangg/yolandayang/issues/2)
 
 Test Prep
+
+5.3
+
+1. **Does the owner of the computer think this was intentional?** 
+
+5.4
+
+1. **CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?** Especially in consideration of the AP CSP students, one crowdsourcing idea would be the major that the students plan on applying for in Universities. Since AP CSP is a very niche class, it is appealing to a very specific group of people. Therefore, the data crowdsourced could be predicted that a lot of people will be majoring in computer science or some form of data structures in college.
+
+2. **What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?** At Del Norte, classes like Statistics uses crowdsourcing to obtain data they can generalize to a wider population. Crowdsourcing obtains diversified opinions and creates more accurate data that is unbiased. My final project can be better with crowdsourcing, because then we can get better feedback from Del Norte students and create an efficient website that a lot of people find useful.
 
 5.1
 
