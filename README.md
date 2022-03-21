@@ -1,4 +1,6 @@
-Review ticket: [#2, Week of March 14-18](https://github.com/yolandayangg/yolandayang/issues/2)
+**Review ticket:** [#2, Week of March 14-18](https://github.com/yolandayangg/yolandayang/issues/2)
+
+[**Github Pages Link**](https://yolandayangg.github.io/yolandayang/)
 
 Test Prep
 
