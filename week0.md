@@ -3,6 +3,7 @@
 While a dopamine rush can be obtained through coding, it's important to have other sources of entertainment that can provide movement Lack of mobility leads to laziness and lack of socialization
 
 Come up with three of your own Beneficial and corresponding Harmful Effects of Computing; beneficial: skills that can be applicable to the evergrowing internet, meeting people virtually, more opportunities to diversify. Harmful effects: lack of exercise leads to decline in health, lack of socialization prevents necessary skills to be developed, sole focus on computing distracts from other daily tasks necessary for function.
+
 5.2
 
 How does someone empower themselves in a digital world? A person empowers themselves in a digital world by having the resources needed to guarantee success. However, not everyone is able to empower themselves because there could be disparities in wealth and accessibility.
