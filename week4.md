@@ -30,8 +30,7 @@ Study Plans Until AP Exam
 |Saturday|Final edits for create task|
 |Sunday|Final edits for create task|
 
-Test 1 Corrections:
-Finals Quiz 1 corrections:
+**Finals Quiz 1 corrections:**
 
 10. A is correct because the customers’ personal information could be compromised if an unauthorized individual gains access to the call session database.
 
@@ -66,6 +65,44 @@ Finals Quiz 1 corrections:
 48. A is correct because removing the connections between C and F and between F and H will prevent devices A and F from communicating.
 
 49. D is correct because the actions of the ISP will only affect how frequently visited pages are loaded into Web browsers. Pages not saved by the ISP are still accessed as they were before
+
+**Final Quiz 2 Corrections:**
+
+2. B is correct because one contributing factor to the digital divide is lack of access to the Internet. Deploying more satellites and network infrastructure would provide a way to allow Internet access in remote areas.
+
+4. B is correct because the digital divide describes the differences in access to computing devices and the Internet. Requiring job applicants to apply online serves only individuals who already have access to computing devices and the Internet. It does not help reduce the divide.
+
+7. B is correct because lossless compression algorithms are guaranteed to be able to reconstruct the original data, while lossy compression algorithms are not.
+
+10. D is correct because options II and III perform the steps in a correct order. In order to generate the desired list, the algorithm must perform the "shorten" step after the "keep palindromes" step, otherwise the "keep palindromes" step would not be able to determine whether the original word was a palindrome.
+
+11. A and D are correct because the time and date that a photo is taken is considered metadata about the image. This information can be used to determine the chronological order of the images.
+
+19. C is correct because when x is negative, y is assigned the value true and the value of y is displayed. When x is not negative, y is assigned the value false and the display statement is never executed.
+
+22. B is correct because IPv6 allows for a greater number of IP addresses than IPv4 does, which allows more devices to be connected.
+
+26. A is correct because the need for software testing is not eliminated, even with effective collaborators. Testing ensures that an algorithm or program is producing the expected outcomes.
+
+32. D is correct because four bits can represent 24, or 16 pieces of information.
+
+35. C is correct because overflow errors occur when an arithmetic operation results in a value outside the range of numbers that can be represented by a fixed number of bits.
+
+37. A is correct because a unique identifier would be required in order to distinguish between two students with the same first and last names.
+
+40. D is correct because citizen science involves members of the general public participating in scientific research. Distributing the image analysis work to a larger group of individuals allows the work to be completed in less time.
+
+45. A is correct because the desired information can be determined by using the student IDs in spreadsheet II to identify the students who play a sport. Once the students who play a sport are identified, the grade point averages of students who play sports in spreadsheet I can be compared to the grade point averages of all other students in spreadsheet I.
+
+47. A is correct because the s, indicating participants who are interested in the application, are clustered toward the top of the graph.
+This indicates that participants who read more were generally more likely to say they are interested in the application.
+
+49. C is correct because the transformation is lossless because an encoded string can be restored to its original version. For example,  can be restored to  by replacing all instances of with  and by replacing all instances of  with .
+
+50. D is correct because the average total points earned per student can be determined using the result of the total points calculation
+for each student. The average increase in total points per student as a result of the score replacement policy can be determined by
+calculating the differences between each student score before and after the replacement policy was applied. The proportion of students
+who improved their total points as a result of the score replacement policy can be determined by comparing the midterm and final scores for each student with the result of the total points calculation.
 
 
  
