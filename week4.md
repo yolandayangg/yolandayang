@@ -10,6 +10,8 @@ Study Plans Until AP Exam
 |Saturday|Start written portion of the create task|
 |Sunday|Continue wrtten portion of create task|
 
+Week 1 reflection: Overall, week 1 went more slowly than I had expected. Although the daily tasks weren't the most challenging, I failed to delegate breaks or account for emergency situations, such as family outings or work. This made me think that I would have to revise my plans for the next two weeks, so I can be more focused and have a better sense of direction.
+
 |Week 2|Agenda|
 |--------|---------|
 |Monday|Finish written portion of create task|
