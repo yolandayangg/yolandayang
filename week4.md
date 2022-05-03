@@ -121,5 +121,7 @@ who improved their total points as a result of the score replacement policy can 
 ![Screen Shot 2022-05-03 at 11 50 03 AM](https://user-images.githubusercontent.com/89219568/166522371-07753607-af5f-450b-8897-6aadd0fbdfca.png)
 
 
+ Create task responses:
  
+[Z3V9Z154_WR (1).pdf](https://github.com/yolandayangg/yolandayang/files/8612939/Z3V9Z154_WR.1.pdf)
 
