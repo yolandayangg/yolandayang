@@ -106,6 +106,19 @@ for each student. The average increase in total points per student as a result o
 calculating the differences between each student score before and after the replacement policy was applied. The proportion of students
 who improved their total points as a result of the score replacement policy can be determined by comparing the midterm and final scores for each student with the result of the total points calculation.
 
+**Quiz 3 Corrections:**
+
+2. B is correct because one contributing factor to the digital divide is lack of access to the Internet. Deploying more satellites and network infrastructure would provide a way to allow Internet access in remote areas.
+
+4. B is correct because the digital divide describes the differences in access to computing devices and the Internet. Requiring job applicants to apply online serves only individuals who already have access to computing devices and the Internet. It does not help reduce the divide.
+
+7. B is correct because lossless compression algorithms are guaranteed to be able to reconstruct the original data, while lossy compression algorithms are not.
+
+10. D is correct because options II and III perform the steps in a correct order. In order to generate the desired list, the algorithm must perform the "shorten" step after the "keep palindromes" step, otherwise the "keep palindromes" step would not be able to determine whether the original word was a palindrome.
+
+11. A and D are correct because the time and date that a photo is taken is considered metadata about the image. This information can be used to determine the chronological order of the images.
+
+
 
  
 
