@@ -118,6 +118,7 @@ who improved their total points as a result of the score replacement policy can 
 
 11. A and D are correct because the time and date that a photo is taken is considered metadata about the image. This information can be used to determine the chronological order of the images.
 
+![Screen Shot 2022-05-03 at 11 50 03 AM](https://user-images.githubusercontent.com/89219568/166522371-07753607-af5f-450b-8897-6aadd0fbdfca.png)
 
 
  
