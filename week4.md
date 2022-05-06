@@ -125,3 +125,20 @@ who improved their total points as a result of the score replacement policy can 
  
 [Z3V9Z154_WR (1).pdf](https://github.com/yolandayangg/yolandayang/files/8612939/Z3V9Z154_WR.1.pdf)
 
+**Quiz 5 Results and corrections; only did 25**
+
+![Screen Shot 2022-05-06 at 11 30 15 AM](https://user-images.githubusercontent.com/89219568/167197262-759f20bd-75f0-4945-8994-b1598587f9c3.png)
+
+9. A is correct because this option is incorrect. If the value of y was 2, the inner loop would repeat two times and the outer loop would repeat three times. The statement   would be executed 3 times 2, or six times. When y = 2, the value of y + 3 is 5, not 6.
+
+19. A and C are correct; to remove the first 2 characters of oldString, this code segment takes a substring starting at position 3. To remove the last 2 characters of oldString, the substring ends at the position that is 4 characters less than the length of oldString (since 4 characters are removed).
+
+21. C is correct because the REPEAT UNTIL statement subtracts 2 from the parameter number until the condition number ≤ 0 is true. After this REPEAT loop ends, the value of number is either 0 (if the original number was even) or –1 (if the original number was odd).
+
+22. C is correct because by current standards, a single high school’s list of student grades is not considered a large set of data. Furthermore, identifying 10 students with the highest grade point averages is not an example of finding patterns.
+
+24. A and D are correct; they return the correct value
+
+25. A and D are correct; this code segment assigns 500 bonus points by default. If timer is less than 30, no additional bonus points are added. If timer is between 30 and 60 inclusive, bonus is incremented by 500 in the first IF block. If timer is greater than 60, bonus is incremented by 500 twice (once in each IF block). The correct number of bonus points is assigned to bonus for all possible values of timer.
+
+
